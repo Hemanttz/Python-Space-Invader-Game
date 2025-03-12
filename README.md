@@ -18,7 +18,8 @@ A simple Space Invaders-style shooter game built with **Pygame**. Players contro
 3. Clone this repository:
    ```bash
    git clone https://github.com/hemanttz/Python-Space-Invader-Game.git
-   cd space-invaders-python
+   cd Python-Space-Invader-Game
+
    ```
 4. Run the game:
    ```bash
