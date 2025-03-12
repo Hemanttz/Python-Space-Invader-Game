@@ -26,7 +26,6 @@ A simple Space Invaders-style shooter game built with **Pygame**. Players contro
    ```
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/b0526c71-6167-4d19-8e96-212454b28586)
 ![image](https://github.com/user-attachments/assets/0d362af8-d134-473d-975f-7b9ec4c5faf2)
 ![image](https://github.com/user-attachments/assets/cff235a6-4c38-4f21-aa44-2b08e6f1f231)
 ![image](https://github.com/user-attachments/assets/6c09d7e3-135f-468c-bea9-93f147ff5491)
